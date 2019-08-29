@@ -20,6 +20,6 @@ Setting Up the Pluto-X Drone, using ROS environment, setting up Whycon camera an
 Building efficient controller and Tuning PID Constants for the controller was the most challenging task as we had to tune constants considering wind speed and its ability to hold drone at a particular position correcting errors.
 
 
-Below is the small demonstration of work done :
-<iframe src="https://giphy.com/embed/PhCT4ID5VJNhNq3kYV" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PhCT4ID5VJNhNq3kYV">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/PhCT4ID5VJNhNq3kYV" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/PhCT4ID5VJNhNq3kYV">via GIPHY</a></p>
+
 ![](name-of-giphy.gif)
