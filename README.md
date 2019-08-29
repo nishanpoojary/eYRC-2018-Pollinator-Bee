@@ -1,5 +1,6 @@
 # eYRC-2018-Pollinator-Bee
 Codes written for E-Yantra Robotics Competition 2018-19, Pollinator Bee Theme, organized by IIT Bombay.
+Developed by Nishan Poojary, Prathamesh Pokhare, Pratik Poojary and Abhishek Pandey.
 
 Pollinator Bee using Pluto-X drone under a program organised by IIT-Bombay. We worked on this project for 6 months under guidance of mentors from IIT Bombay.
 
@@ -20,5 +21,5 @@ Building efficient controller and Tuning PID Constants for the controller was th
 
 
 Below is the small demonstration of work done :
-
-[<img src="https://img.youtube.com/vi/<VIDEO ID>/maxresdefault.jpg" width="50%">](https://youtu.be/<VIDEO ID>)
+<iframe src="https://giphy.com/embed/PhCT4ID5VJNhNq3kYV" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PhCT4ID5VJNhNq3kYV">via GIPHY</a></p>
+![](name-of-giphy.gif)
