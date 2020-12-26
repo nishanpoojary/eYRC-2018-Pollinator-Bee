@@ -6,6 +6,10 @@ Pollinator Bee using Pluto-X drone under a program organised by IIT-Bombay. We w
 
 Aim : The Drone has to imitate a bee. The drone performs a task routinely performed by bees, namely going through the process of pollinating flowers, and it is henceforth referred to as the “Pollinator Bee”. Achieved through control system design and controlling a drone using the Robot Operating System (ROS). 
 
+<p align="center">
+<img src="gifs/pollinator_bee.gif" width="250" height="300"/>
+</p>
+
 Each flower is a platform with an incomplete circuit and exposed wires. The Pollinator Bee must hover over the flower and complete the circuit. A bee stinger made of conductive material attached below the Pollinator Bee completes the circuit by causing contact between exposed terminals. LEDs on the flower light up when the contact is successful and the circuit is complete.
 
 The challenge was to complete this task in the shortest time possible.
