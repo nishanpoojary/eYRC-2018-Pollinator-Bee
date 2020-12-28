@@ -7,19 +7,19 @@ Pollinator Bee using Pluto-X drone under a program organised by IIT-Bombay. We w
 Aim : The Drone has to imitate a bee. The drone performs a task routinely performed by bees, namely going through the process of pollinating flowers, and it is henceforth referred to as the “Pollinator Bee”. Achieved through control system design and controlling a drone using the Robot Operating System (ROS). 
 
 <p align="center">
-<img src="gifs/pollinator_bee.gif" width="250" height="250"/>
+<img src="gifs/pollinator_bee.gif" width="350" height="250"/>
 </p>
 
 Each flower is a platform with an incomplete circuit and exposed wires. The Pollinator Bee must hover over the flower and complete the circuit. A bee stinger made of conductive material attached below the Pollinator Bee completes the circuit by causing contact between exposed terminals. LEDs on the flower light up when the contact is successful and the circuit is complete.
 
 <p align="center">
-<img src="gifs/whycon_coordinates.gif" width="250" height="250"/>
+<img src="gifs/whycon_coordinates.gif" width="350" height="250"/>
 </p>
 
 The challenge was to complete this task in the shortest time possible.
 
 <p align="center">
-<img src="gifs/image_processing.gif" width="250" height="250"/>
+<img src="gifs/image_processing.gif" width="350" height="250"/>
 </p>
 
 Thus, we needed a perfectly tuned control algorithm to make drone hold a particular position and lit the following LED Clusters.
@@ -32,8 +32,7 @@ Setting Up the Pluto-X Drone, using ROS environment, setting up Whycon camera an
 Building efficient controller and Tuning PID Constants for the controller was the most challenging task as we had to tune constants considering wind speed and its ability to hold drone at a particular position correcting errors.
 
 <p align="center">
-<img src="gifs/position_hold.gif" width="250" height="250"/>
+<img src="gifs/position_hold.gif" width="350" height="250"/>
 </p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BFufaY9tbUM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+You can view the short video demonstration over here: https://youtu.be/BFufaY9tbUM 
