@@ -12,7 +12,15 @@ Aim : The Drone has to imitate a bee. The drone performs a task routinely perfor
 
 Each flower is a platform with an incomplete circuit and exposed wires. The Pollinator Bee must hover over the flower and complete the circuit. A bee stinger made of conductive material attached below the Pollinator Bee completes the circuit by causing contact between exposed terminals. LEDs on the flower light up when the contact is successful and the circuit is complete.
 
+<p align="center">
+<img src="gifs/whycon_coordinates.gif" width="250" height="250"/>
+</p>
+
 The challenge was to complete this task in the shortest time possible.
+
+<p align="center">
+<img src="gifs/image_processing.gif" width="250" height="250"/>
+</p>
 
 Thus, we needed a perfectly tuned control algorithm to make drone hold a particular position and lit the following LED Clusters.
 The color of the LED clusters is detected by the Image Processing Algorithm. The control algorithm makes sure that task of pollination is performed in shortest amount of time. 
@@ -22,6 +30,10 @@ We had to complete the task assigned to us before given deadline. Some of the wo
 Setting Up the Pluto-X Drone, using ROS environment, setting up Whycon camera and its calibration, writing code in Python. Also we had to setup the arena sheet (flex sheet) on which flowers is to be placed, making flowers(LED Clusters), Building Flower Structure(Stems), making Bee Stinger, building Camera Frame, etc.
 
 Building efficient controller and Tuning PID Constants for the controller was the most challenging task as we had to tune constants considering wind speed and its ability to hold drone at a particular position correcting errors.
+
+<p align="center">
+<img src="gifs/position_hold.gif" width="250" height="250"/>
+</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BFufaY9tbUM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
