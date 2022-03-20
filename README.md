@@ -37,26 +37,26 @@ Building efficient controller and Tuning PID Constants for the controller was th
 
 You can view the short video demonstration over <a href="https://youtu.be/BFufaY9tbUM" target="_blank" >here</a>
 
-**Tasks
+## Tasks
 
-*Task 1.1
+**Task 1.1**
 
 <a href="https://www.youtube.com/watch?v=OvbmtJ-a0VQ" target="_blank" rel="noopener noreferrer">Simulating the position hold of the drone at a particular point using PID controller</a>
 
-*Task 1.2
+**Task 1.2**
 
 <a href="https://www.youtube.com/watch?v=Xt0tFyPajws" target="_blank" rel="noopener noreferrer">Simulating the path traversal of the drone using PID controller</a>
 
-*Task 2
+**Task 2**
 
 <a href="https://www.youtube.com/watch?v=m2a21tWsZEE" target="_blank" rel="noopener noreferrer">Flower Lighting Mechanism</a>
 
-*Task 4
+**Task 4**
 
 <a href="https://www.youtube.com/watch?v=JruIbVtrS3U" target="_blank" rel="noopener noreferrer">Implementing the task on the pluto drone</a>
 
 
-**FUNDING
+## Funding
 
 The hardware kits and pluto-x drone was provided by eYantra, IIT Bombay.
 
