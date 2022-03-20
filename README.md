@@ -35,13 +35,13 @@ Building efficient controller and Tuning PID Constants for the controller was th
 <img src="gifs/position_hold.gif" width="350" height="250"/>
 </p>
 
-You can view the short video demonstration over here: https://youtu.be/BFufaY9tbUM 
+You can view the short video demonstration over <a href="https://youtu.be/BFufaY9tbUM" target="_blank" >here</a> https://youtu.be/BFufaY9tbUM 
 
 **Tasks
 
 *Task 1
 
-<a href="https://www.youtube.com/watch?v=Bh3WHrjQXyo">Simulating the position hold of the drone at a particular point using PID controller</a>
+<a href="https://www.youtube.com/watch?v=Bh3WHrjQXyo" target="_blank" >Simulating the position hold of the drone at a particular point using PID controller</a>
 
 
 **FUNDING
