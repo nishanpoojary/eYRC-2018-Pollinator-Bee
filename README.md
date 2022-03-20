@@ -36,3 +36,15 @@ Building efficient controller and Tuning PID Constants for the controller was th
 </p>
 
 You can view the short video demonstration over here: https://youtu.be/BFufaY9tbUM 
+
+**Tasks
+
+*Task 1
+
+<a href="https://www.youtube.com/watch?v=Bh3WHrjQXyo">Simulating the position hold of the drone at a particular point using PID controller</a>
+
+
+**FUNDING
+
+The hardware kits and pluto-x drone was provided by eYantra, IIT Bombay.
+
