@@ -43,6 +43,8 @@ You can view the short video demonstration over <a href="https://youtu.be/BFufaY
 
 <a href="https://www.youtube.com/watch?v=Bh3WHrjQXyo" target="_blank" rel="noopener noreferrer">Simulating the position hold of the drone at a particular point using PID controller</a>
 
+[go](https://www.youtube.com/watch?v=Bh3WHrjQXyo){:target="_blank" rel="noopener"}
+
 
 **FUNDING
 
